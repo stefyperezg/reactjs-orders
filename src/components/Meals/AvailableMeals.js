@@ -27,6 +27,12 @@ const DUMMY_MEALS = [
     description: 'Healthy...and green...',
     price: 18.99,
   },
+  {
+    id: 'm5',
+    name: 'Yahuarlocro',
+    description: 'Soft potatoes...traditional...',
+    price: 24.99,
+  },
 ];
 
 const AvailableMeals = () => {
